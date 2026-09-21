@@ -9,6 +9,6 @@
     "out_of_stock": false
   },
   "Amazon": {
-    "out_of_stock": false
+    "out_of_stock": true
   }
 }
